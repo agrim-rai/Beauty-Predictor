@@ -1,6 +1,6 @@
 # Beauty-Predictor
 
-> ⚠️ **Disclaimer**: This beauty predictor model is purely a hobby project, created for the sole purpose of showcasing how machine learning can be influenced by biases—because, let’s be honest, even algorithms can fall victim to society’s quirks! Remember, beauty is subjective, and if your score isn’t what you hoped, just blame it on the dataset! For a deeper dive into these biases (and a few laughs), check out my article [here](https://pavithra.dev/entries/beauty).
+> ⚠️ **Disclaimer**: This beauty predictor model is purely a hobby project, created for the sole purpose of showcasing how machine learning can be influenced by biases—because, let’s be honest, even algorithms can fall victim to society’s quirks! Remember, beauty is subjective, and if your score isn’t what you hoped, just blame it on the dataset! For a deeper dive into these biases (and a few laughs), check out my article [here](https://www.pavithra.dev/entries/beauty).
 
 
 
